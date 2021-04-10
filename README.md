@@ -1,2 +1,2 @@
-# yaml-box
-A .yaml configuration parser
+# toml-box
+A .toml configuration parser
